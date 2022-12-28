@@ -1,7 +1,7 @@
-# !"Petly" (Team project)
+# "Petly" (Team project)
 > ### MERN Stack Application for finding a pet with authorization. 
 
-#Main functionality:
+# Main functionality:
 - search or place ads by category (lost/found, give to good hands, sale);
 - follow the news;
 - communicate with partners who provide their services in animal care. 
