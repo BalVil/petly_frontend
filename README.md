@@ -10,3 +10,5 @@
 - save your favorite ads and create your own. 
 ### There is a choice of preferred language (English/Ukrainian). 
 ### As well as support for adaptive design.
+
+@ Main repository https://github.com/EduardSergienko/project_group_5_petly
