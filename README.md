@@ -11,4 +11,5 @@
 ### There is a choice of preferred language (English/Ukrainian). 
 ### As well as support for adaptive design.
 
+@ Backend of the "Petly" project: https://github.com/BalVil/petly_backend
 @ Main repository https://github.com/EduardSergienko/project_group_5_petly
